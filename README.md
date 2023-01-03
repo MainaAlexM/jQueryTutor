@@ -1,2 +1,2 @@
 # jQueryTutor
-Learning Lessons for jQuery
+JQuery practice.
